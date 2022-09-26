@@ -1,3 +1,3 @@
 This is the readme file for the tutorial repository.
-Creating a conflict
-Adding a line of text from the branch
+Well, this is the second line
+Adding a different line from the other branch
